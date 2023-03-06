@@ -17,7 +17,7 @@ function updateNav() {
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
   // The visible list is overflowing the nav
-  if($vlinks.width() > availableSpace+800) {
+  if($vlinks.width() > availableSpace) {
 
     // Record the width of the list
     breaks.push($vlinks.width());

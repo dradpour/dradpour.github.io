@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Linguistics, University of Texas at Austin, 2013-2016
+* M.S. in Computational Linguistics, University at Buffalo, 2016-2018
+* Ph.D in Information Science, University of Colorado Boulder, 2018-2022 (not completed) 
 
 Work experience
 ======

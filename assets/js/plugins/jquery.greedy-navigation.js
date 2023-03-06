@@ -13,11 +13,11 @@ var $hlinks = $('#site-nav .hidden-links');
 var breaks = [];
 
 function updateNav() {
-return
+
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
   // The visible list is overflowing the nav
-  if($vlinks.width() > availableSpace+300) {
+  if($vlinks.width() > availableSpace+800) {
 
     // Record the width of the list
     breaks.push($vlinks.width());

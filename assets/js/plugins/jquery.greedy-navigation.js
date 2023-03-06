@@ -14,7 +14,7 @@ var breaks = [];
 
 function updateNav() {
 
-  var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
+  var availableSpace = $btn.hasClass('hidden') ? $nav.width()+200 : $nav.width()+200 - $btn.width() - 30;
 
   // The visible list is overflowing the nav
   if($vlinks.width() > availableSpace) {

@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![cover](https://www.africau.edu/images/default/sample.pdf)
+![cover](http://f.cl.ly/items/2c1r1a2n2U3N1Q1I0p0X/robotsconf-cover.png)

@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "INFO 1101 - Computation in Society"
 collection: teaching
 type: "Undergraduate course"
 <!-- permalink: /teaching/2014-spring-teaching-1 -->
-venue: "University of Colorado Boulder, Department"
-date: 2014-01-01
+venue: "University of Colorado Boulder, Department of Information Science"
+date: Summer 2022
 location: "City, Country"
 ---
 

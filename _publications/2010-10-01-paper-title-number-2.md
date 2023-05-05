@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Conditional generative adversarial networks for emoji synthesis with word embedding manipulation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zafeNiwAAAAJ&citation_for_view=zafeNiwAAAAJ:u-x6o8ySG0sC
+excerpt: 'This paper presents a novel application of deep convolutional GANs (DC-GANs) with an optimized training procedure to show that via incorporation of word embeddings conditioned on Google's word2vec model into the network, the generator is able to synthesize highly realistic emojis that are virtually identical to the real ones.
+date: 2017-10-01
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/pdf/1712.04421.pdf'
+citation: 
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper presents a method for using deep convolutional networks (CNNs) to classify characters in American Sign Language (ASL). 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://arxiv.org/pdf/1712.04421.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

@@ -6,10 +6,10 @@ excerpt: 'This paper presents a method for using deep convolutional networks (CN
 date: 2009-10-01
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/1710.06836.pdf'
-<!-- citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper presents a method for using deep convolutional networks (CNNs) to classify characters in American Sign Language (ASL). 
 
 [Download paper here](https://arxiv.org/pdf/1710.06836.pdf)
 
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

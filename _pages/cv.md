@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![cover](./panther-2038656.png)
+![cover](./NeluR-1.png)

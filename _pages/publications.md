@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+- [Using deep convolutional networks for gesture recognition in american sign language](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zafeNiwAAAAJ&citation_for_view=zafeNiwAAAAJ:u5HHmVD_uO8C)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- [Conditional generative adversarial networks for emoji synthesis with word embedding manipulation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zafeNiwAAAAJ&citation_for_view=zafeNiwAAAAJ:u-x6o8ySG0sC)

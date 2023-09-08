@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nelu D. Radpour"
+title                    : "Nelu (Dianna) Radpour"
 title_separator          : "-"
-name                     : &name "Nelu Radpour"
-description              : &description "Linguist & Data Scientist"
+name                     : &name "Nelu (Dianna) Radpour"
+description              : &description 
 url                      : https://nradpour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nradpour/nradpour.github.io"

@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nelu (Dianna) Radpour"
+title                    : "Dianna Radpour"
 title_separator          : "-"
-name                     : &name "Nelu (Dianna) Radpour"
+name                     : &name "Dianna Radpour"
 description              : &description 
-url                      : https://nradpour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dradpour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nradpour/nradpour.github.io"
+repository               : "dradpour/dradpour.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nelu D. Radpour"
+  name             : "Dianna Radpour"
   avatar           : "profile.png"
   bio              : "NLP Researcher"
   location         : "Boulder, CO"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AHoSzlUgRdpoEg6-eKABlLcVpENbhjqnuLT-xnnHR_yXsMK7rp7xm5q5WC5ddIjbjYZsPOnxduRiPIOoQCi1Yd7Vb5m1&user=B5xj-8IAAAAJ"
-  email            : nelu.radpour@gmail.com
+  googlescholar    : "https://scholar.google.com/citations?user=B5xj-8IAAAAJ&hl=en"
+  email            : dradpour@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nradpour"
+  github           : "dradpour"
   google_plus      :
   keybase          :
   instagram        :

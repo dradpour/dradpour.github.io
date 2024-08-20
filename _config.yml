@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dianna Radpour"
   avatar           : "profile.png"
-  bio              : "NLP Researcher"
-  location         : "Boulder, CO"
+  # bio              : "NLP Researcher"
+  # location         : "Boulder, CO"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=B5xj-8IAAAAJ&hl=en"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dradpour"
+  # github           : "dradpour"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "neluradpour"
+  linkedin         : "diannaradpour"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "NeluRadpour"
+  twitter          : "DiannaRadpour"
   vine             :
   weibo            :
   xing             :

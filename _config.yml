@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dianna Radpour"
 title_separator          : "-"
-name                     : &name "Dianna Radpour"
+# name                     : &name "Dianna Radpour"
 description              : &description 
 url                      : https://dradpour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there 🔆"
+title: "**Hi there** 🔆"
 excerpt: "testing this bit "
 author_profile: true
 redirect_from: 

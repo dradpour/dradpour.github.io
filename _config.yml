@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dianna Radpour"
+title                    : "Nelu (Dianna) Radpour"
 title_separator          : "-"
 # name                     : &name "Dianna Radpour"
 description              : &description 
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dianna Radpour"
+  name             : "Nelu (Dianna) Radpour"
   avatar           : "profile.png"
   # bio              : "NLP Researcher"
   # location         : "Boulder, CO"

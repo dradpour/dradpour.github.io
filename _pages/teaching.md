@@ -16,7 +16,7 @@ University of Colorado Boulder:
 
 - INFO 4602/5602 - Information Visualization \(Spring 2022\) - TA
 
-- INFO 1101 - Computation in Society \(Summer 2022\) - Instructor
+- INFO 1101 - Computation in Society \(Summer 2022\) - Instructor of Record
 
 <!-- {% for post in site.teaching reversed %}
   {% include archive-single.html %}

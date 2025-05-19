@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 At Florida State University:
-- PSB 2000 - Introduction to Neuroscience - Instructor of Record 
+- PSB 2000 - Introduction to Neuroscience (Fall 2025) - Instructor of Record 
 
 At the University of Colorado Boulder: 
 - INFO 1201 - Computational Reasoning \(Fall 2019, Fall 2020\) - TA
